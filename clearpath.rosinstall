@@ -1,7 +1,6 @@
 - svn:
     uri: http://clearpath-ros-pkg.googlecode.com/svn/trunk
     local-name: clearpath-ros-pkg
-    version: default
     meta:
         repo-name: clearpath-ros-pkg
 
