@@ -1,19 +1,19 @@
 - svn:
-	uri: http://clearpath-ros-pkg.googlecode.com/svn/trunk
-	local-name: clearpath-ros-pkg
-	version: master
-	meta:
-		repo-name: clearpath-ros-pkg
+    uri: http://clearpath-ros-pkg.googlecode.com/svn/trunk
+    local-name: clearpath-ros-pkg
+    version: master
+    meta:
+        repo-name: clearpath-ros-pkg
 
 - git:
-	uri: https://github.com/clearpathrobotics/clearpath_husky.git
-	local-name: clearpath-husky
-	version: master
-	meta:
-		repo-name: clearpath-ros-pkg
+    uri: https://github.com/clearpathrobotics/clearpath_husky.git
+    local-name: clearpath-husky
+    version: master
+    meta:
+        repo-name: clearpath-ros-pkg
 
 - git:
-	uri: https://github.com/clearpathrobotics/applanix_driver.git
-	local-name: applanix-driver
-	version: master
+    uri: https://github.com/clearpathrobotics/applanix_driver.git
+    local-name: applanix-driver
+    version: master
 
