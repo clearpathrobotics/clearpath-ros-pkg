@@ -11,4 +11,8 @@
     meta:
         repo-name: clearpath-ros-pkg
 
+- git:
+    uri: https://github.com/clearpathrobotics/applanix_driver.git
+    local-name: applanix-driver
+    version: master
 
