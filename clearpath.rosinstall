@@ -12,7 +12,26 @@
         repo-name: clearpath-ros-pkg
 
 - git:
+    uri: https://github.com/clearpathrobotics/kingfisher.git
+    local-name: kingfisher
+    version: master
+    meta:
+        repo-name: clearpath-ros-pkg
+
+- git:
+    uri: https://github.com/clearpathrobotics/kingfisher_apps.git
+    local-name: kingfisher_apps
+    version: master
+    meta:
+        repo-name: clearpath-ros-pkg
+
+- git:
     uri: https://github.com/clearpathrobotics/applanix_driver.git
     local-name: applanix-driver
+    version: master
+
+- git:
+    uri: https://github.com/clearpathrobotics/axis_camera.git
+    local-name: axis_camera
     version: master
 
