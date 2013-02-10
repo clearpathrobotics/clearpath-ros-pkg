@@ -12,6 +12,20 @@
         repo-name: clearpath-ros-pkg
 
 - git:
+    uri: https://github.com/clearpathrobotics/husky_apps.git
+    local-name: husky-apps
+    version: master
+    meta:
+        repo-name: clearpath-ros-pkg
+
+- git:
+    uri: https://github.com/clearpathrobotics/husky_simulator.git
+    local-name: husky-simulator
+    version: master
+    meta:
+        repo-name: clearpath-ros-pkg
+
+- git:
     uri: https://github.com/clearpathrobotics/kingfisher.git
     local-name: kingfisher
     version: master
